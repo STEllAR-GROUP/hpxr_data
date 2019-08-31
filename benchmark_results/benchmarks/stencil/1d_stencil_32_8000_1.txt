@@ -1,0 +1,48 @@
+Starting 1d stencil with dataflow replay
+Time elapsed: 51.9076
+Errors occured: 110318
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 51.2601
+Errors occured: 110451
+Starting 1d stencil with dataflow replay
+Time elapsed: 50.4629
+Errors occured: 39152
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 49.672
+Errors occured: 39190
+Starting 1d stencil with dataflow replay
+Time elapsed: 49.5609
+Errors occured: 14182
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 49.1005
+Errors occured: 14257
+Starting 1d stencil with dataflow replay
+Time elapsed: 49.3319
+Errors occured: 5285
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 48.8775
+Errors occured: 5192
+Starting 1d stencil with dataflow replay
+Time elapsed: 49.5669
+Errors occured: 1885
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 48.8225
+Errors occured: 1870
+Starting 1d stencil with dataflow replay
+Time elapsed: 49.1961
+Errors occured: 736
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 48.7472
+Errors occured: 687
+Starting 1d stencil with dataflow replay
+Time elapsed: 49.4318
+Errors occured: 250
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 48.7592
+Errors occured: 260
+Starting 1d stencil with dataflow replay
+Time elapsed: 49.163
+Errors occured: 89
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 48.7271
+Errors occured: 97

@@ -1,0 +1,9 @@
+Starting async
+Pure Async execution time = 31.392441
+Number of failed threads = 0
+Starting async replay
+Async replay execution time = 31.465035
+Number of failed threads = 0
+Starting async replay validate
+Async replay execution time = 31.466291
+Number of exceptions = 0

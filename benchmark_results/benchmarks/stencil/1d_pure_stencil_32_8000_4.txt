@@ -1,0 +1,12 @@
+Starting 1d stencil with dataflow
+Time elapsed: 47.0502
+Errors occured: 0
+Starting 1d stencil with dataflow replay
+Time elapsed: 49.4844
+Errors occured: 0
+Starting 1d stencil with dataflow replay validate
+Time elapsed: 49.2226
+Errors occured: 0
+Starting 1d stencil with dataflow replicate
+Time elapsed: 139.315
+Errors occured: 0

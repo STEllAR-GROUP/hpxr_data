@@ -1,0 +1,48 @@
+Starting async replay
+Async replay execution time = 6.927682
+Number of failed threads = 52144
+Starting async replay validate
+Async replay execution time = 6.913562
+Number of exceptions = 52236
+Starting async replay
+Async replay execution time = 6.693710
+Number of failed threads = 18693
+Starting async replay validate
+Async replay execution time = 6.692569
+Number of exceptions = 18663
+Starting async replay
+Async replay execution time = 6.641163
+Number of failed threads = 6722
+Starting async replay validate
+Async replay execution time = 6.617516
+Number of exceptions = 6881
+Starting async replay
+Async replay execution time = 6.586935
+Number of failed threads = 2403
+Starting async replay validate
+Async replay execution time = 6.590117
+Number of exceptions = 2526
+Starting async replay
+Async replay execution time = 6.569566
+Number of failed threads = 924
+Starting async replay validate
+Async replay execution time = 6.563369
+Number of exceptions = 946
+Starting async replay
+Async replay execution time = 6.557293
+Number of failed threads = 327
+Starting async replay validate
+Async replay execution time = 6.574296
+Number of exceptions = 314
+Starting async replay
+Async replay execution time = 6.526523
+Number of failed threads = 120
+Starting async replay validate
+Async replay execution time = 6.566668
+Number of exceptions = 131
+Starting async replay
+Async replay execution time = 6.565445
+Number of failed threads = 62
+Starting async replay validate
+Async replay execution time = 6.516432
+Number of exceptions = 46

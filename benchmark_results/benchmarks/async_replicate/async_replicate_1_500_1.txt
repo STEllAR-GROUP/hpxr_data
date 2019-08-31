@@ -1,0 +1,72 @@
+Starting async replicate
+Async replay execution time = 15.052528
+Number of exceptions = 217
+Starting async replicate validate
+Async replay execution time = 15.051907
+Number of failed threads = 222
+Starting async replicate vote
+Async replay vote execution time = 15.051390
+Number of failed threads = 181
+Starting async replicate vote validate
+Async replay vote validate execution time = 15.051582
+Number of exceptions = 190
+Starting async replicate
+Async replay execution time = 15.050025
+Number of exceptions = 85
+Starting async replicate validate
+Async replay execution time = 15.050717
+Number of failed threads = 78
+Starting async replicate vote
+Async replay vote execution time = 15.050147
+Number of failed threads = 81
+Starting async replicate vote validate
+Async replay vote validate execution time = 15.052040
+Number of exceptions = 84
+Starting async replicate
+Async replay execution time = 15.050563
+Number of exceptions = 23
+Starting async replicate validate
+Async replay execution time = 15.049974
+Number of failed threads = 28
+Starting async replicate vote
+Async replay vote execution time = 15.049437
+Number of failed threads = 30
+Starting async replicate vote validate
+Async replay vote validate execution time = 15.049651
+Number of exceptions = 23
+Starting async replicate
+Async replay execution time = 15.048998
+Number of exceptions = 5
+Starting async replicate validate
+Async replay execution time = 15.049527
+Number of failed threads = 12
+Starting async replicate vote
+Async replay vote execution time = 15.049783
+Number of failed threads = 8
+Starting async replicate vote validate
+Async replay vote validate execution time = 15.050476
+Number of exceptions = 5
+Starting async replicate
+Async replay execution time = 15.049178
+Number of exceptions = 4
+Starting async replicate validate
+Async replay execution time = 15.049796
+Number of failed threads = 4
+Starting async replicate vote
+Async replay vote execution time = 15.050545
+Number of failed threads = 2
+Starting async replicate vote validate
+Async replay vote validate execution time = 15.049200
+Number of exceptions = 7
+Starting async replicate
+Async replay execution time = 15.048714
+Number of exceptions = 1
+Starting async replicate validate
+Async replay execution time = 15.049679
+Number of failed threads = 0
+Starting async replicate vote
+Async replay vote execution time = 15.049414
+Number of failed threads = 2
+Starting async replicate vote validate
+Async replay vote validate execution time = 15.049402
+Number of exceptions = 2

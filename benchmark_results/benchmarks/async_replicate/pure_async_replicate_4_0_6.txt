@@ -1,0 +1,15 @@
+Starting async
+Async execution time = 0.850466
+Number of exceptions = 0
+Starting async replicate
+Async replay execution time = 3.736635
+Number of exceptions = 0
+Starting async replicate validate
+Async replay execution time = 3.839040
+Number of failed threads = 0
+Starting async replicate vote
+Async replay vote execution time = 3.907916
+Number of failed threads = 0
+Starting async replicate vote validate
+Async replay vote validate execution time = 3.915715
+Number of exceptions = 0
